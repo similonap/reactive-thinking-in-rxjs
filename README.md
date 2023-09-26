@@ -10,16 +10,6 @@
 
 You will find all resources and task for this course in the [Wiki](https://github.com/ng-practice/reactive-thinking-in-rxjs/wiki).
 
-## Setup
-
-Fork [this](https://github.com/ng-practice/reactive-thinking-in-rxjs.git) repository in GitHub or clone it with your Git client.
-
-```bash
-git clone https://github.com/ng-practice/reactive-thinking-in-rxjs.git
-cd reactive-thinking-in-rxjs
-npm install
-```
-
 ## Start
 
 ### Playground
